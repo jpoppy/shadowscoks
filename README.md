@@ -107,6 +107,13 @@ ssserver -c /etc/shadowsocks.json -d start
 ssserver -c /etc/shadowsocks.json -d stop
 ```
 
+## 参考链接
+
+https://www.tennfy.com/1978.html
+https://fatesinger.com/76137
+https://yq.aliyun.com/articles/137280?commentId=11711
+https://teddysun.com/486.html?spm=a2c4e.11153940.blogcont137280.15.369775c6UNNEY5
+http://www.joryhe.com/2016-05-31-shadowsocks_serices_speeder_optmime.html
 
 
 
